@@ -1,4 +1,6 @@
 <?php
+include("services/conexao.php");
+
 
 
 ?>
@@ -11,6 +13,6 @@
     <title>Document</title>
 </head>
 <body>
-        <H1>OLA MUNDO </H1>
+        <h1>ola mundo</h1>
 </body>
 </html>
